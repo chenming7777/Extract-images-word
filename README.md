@@ -1,12 +1,12 @@
 -----
 
-# 📸 Image Text Extractor with Gemini Vision AI
+# 📸 Images Text Extractor
 
 -----
 
 ## 🌟 Project Description
 
-This Python project leverages the power of **Google's Gemini Vision AI** to accurately extract text from a series of images and compiles it into a single, organized Microsoft Word document. Whether you're digitizing old documents, extracting information from screenshots, or processing a batch of images for data entry, this tool automates the tedious task of manual text transcription.
+This Python project leverages the power of **Google Gemini AI** to accurately extract text from a series of images and compiles it into a single, organized Microsoft Word document. Whether you're digitizing old documents, extracting information from screenshots, or processing a batch of images for data entry, this tool automates the tedious task of manual text transcription.
 
 It's designed to be user-friendly and highly configurable, making it a valuable asset for researchers, students, developers, and anyone needing to quickly convert visual information into editable text.
 
