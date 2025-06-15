@@ -135,7 +135,7 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
 
 Teh Chen Ming - tehchenming7777@gmail.com
 
-Project Link: [https://github.com/chenming777/Extract-images-word](https://www.google.com/search?q=https://github.com/chenming777/Extract-images-word)
+Project Link: https://github.com/chenming7777/Extract-images-word
 
 -----
 
