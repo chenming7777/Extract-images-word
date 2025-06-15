@@ -1,7 +1,3 @@
-Okay, fantastic\! With the API key handled securely via environment variables, your project is ready for a polished `README.md`.
-
-Here's the updated `README.md` file, incorporating the best practices and reflecting your current code:
-
 -----
 
 # 📸 Image Text Extractor with Gemini Vision AI
@@ -112,21 +108,12 @@ python image_text_extractor.py
 The script will:
 
 1.  Iterate through your specified image files.
-2.  Send each image to the Gemini Vision AI for text extraction.
+2.  Send each image to the Gemini Flash for text extraction.
 3.  Print the extracted text to the console.
 4.  Append the extracted text to a new paragraph in the specified Word document.
 5.  Pause for 20 seconds between each image to avoid hitting API rate limits.
 6.  Save the final Word document with all the extracted content.
 
-## 📦 Required Libraries (`requirements.txt`)
-
-Create a `requirements.txt` file in your project's root directory with these contents:
-
-```
-google-generativeai
-python-docx
-Pillow
-```
 
 ## 🤝 Contributing
 
@@ -146,7 +133,7 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
 
 ## 📧 Contact
 
-Chen Ming - your-email@example.com (Optional: Add your email or a link to your GitHub profile)
+Teh Chen Ming - tehchenming7777@gmail.com
 
 Project Link: [https://github.com/chenming777/Extract-images-word](https://www.google.com/search?q=https://github.com/chenming777/Extract-images-word)
 
